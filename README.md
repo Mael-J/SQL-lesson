@@ -1,1 +1,1 @@
-SQL lesson with Postgre
+Cours SQL avec PostgreSQL en Français
